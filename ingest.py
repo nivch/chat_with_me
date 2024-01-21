@@ -17,7 +17,7 @@ from langchain.llms import OpenAI
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import Chroma
 
-os.environ["OPENAI_API_KEY"] = "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"
+
 
 from constants import (
     CHROMA_SETTINGS,

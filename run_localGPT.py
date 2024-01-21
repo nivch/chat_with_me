@@ -29,7 +29,7 @@ from transformers import (
 
 from constants import CHROMA_SETTINGS, EMBEDDING_MODEL_NAME, PERSIST_DIRECTORY, MODEL_ID, MODEL_BASENAME
 
-os.environ["OPENAI_API_KEY"] = "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"
+
 
 
 
