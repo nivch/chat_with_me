@@ -1,0 +1,87 @@
+.Elxsi{
+    /* display: flex; */
+    align-items:flex-start;
+    margin-left: 80px;
+
+}
+.Elxsi img{
+    align-content: center;
+    max-width: 400px;
+    max-height: 180px;
+    /* margin-top: -100vb; */
+    /* margin-left: 500px; */
+    /* margin-bottom: 25px; */ 
+    display:block;
+    margin:0 auto;
+    margin-top: -50px;
+    
+}
+.wordWrap{
+    position: relative;
+    margin: 50px 0 20px;
+}
+
+.work_container{
+    max-width: 1500px;
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px;
+}
+
+.Elxsi h3{
+    color: #333;
+    font-size: 18px;
+    line-height: 24px;
+    /* margin-left: 500px; */
+    display: inline-block;
+    margin: 0;
+    text-align: center;
+   
+    padding: 10px;
+}
+.Elxsi b{
+    color: #7c6f6f;
+    font-size: 18px;
+    line-height: 24px;
+    margin-left: 1200px;
+}
+
+.Work-Experience{
+    position: relative;
+    margin: 0px 0 1px;
+    display: grid; 
+    
+    
+}
+
+.work{
+    position: relative;
+    margin: 0px 0 1px;
+    display: grid; 
+    
+    
+}
+
+
+.work-item p{
+    margin-top: 15px;
+    font-size: 18px;
+    line-height: 24px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+}
+
+.work-item{
+    /* border: 1px solid #ccc; */
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+}
+.work-item h2{
+    align-items: center;
+    /* margin-left: 550px; */
+    text-align: center;
+}
